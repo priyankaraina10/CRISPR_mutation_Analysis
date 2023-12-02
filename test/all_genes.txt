@@ -1,0 +1,10 @@
+GeneA_KO
+GeneB_KO
+GeneC_KO
+GeneD_KO
+GeneE_KO
+GeneF_KO
+GeneG_KO
+GeneH_KO
+GeneI_KO
+GeneJ_KO
